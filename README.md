@@ -1,7 +1,7 @@
 # ACID Microbiome
 ### Gut enterotype- and body mass index (BMI)-dependent effects of anthocyanin supplementation on gut microbiota composition in individuals at risk for cognitive decline: a randomized placebo-controlled trial
 ## Scripts
-* ***DADA2:*** Processing of raw sequences
+* ***DADA2.R:*** Processing of raw sequences
 * ***pre_processing.R:*** Performs data cleaning, preparation and rarefaction
 * ***top10_taxa.R:*** Generates plots of the top 10 taxa at genus and phylum levels
 * ***alpha_diversity.R:*** Calculates and statistically tests various alpha diversity metrics
